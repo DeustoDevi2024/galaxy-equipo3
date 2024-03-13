@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Iker\\git\\Unity\\galaxy-equipo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|c:\\users\\iker\\git\\unity\\galaxy-equipo3\\assets\\scripts\\rotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|C:\\Users\\Iker\\git\\Unity\\galaxy-equipo3\\assets\\scripts\\oscilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oscilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|c:\\users\\iker\\git\\unity\\galaxy-equipo3\\assets\\scripts\\oscilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oscilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|c:\\users\\iker\\git\\unity\\galaxy-equipo3\\assets\\scripts\\movimientocamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientocamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|c:\\users\\iker\\git\\unity\\galaxy-equipo3\\assets\\scripts\\rotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45790F75-9401-EF97-D065-8D9485D15945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MovimientoCamara.cs",
+              "DocumentMoniker": "C:\\Users\\Iker\\git\\Unity\\galaxy-equipo3\\Assets\\Scripts\\MovimientoCamara.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoCamara.cs",
+              "ToolTip": "C:\\Users\\Iker\\git\\Unity\\galaxy-equipo3\\Assets\\Scripts\\MovimientoCamara.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoCamara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:59:41.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Rotacion.cs",
               "DocumentMoniker": "C:\\Users\\Iker\\git\\Unity\\galaxy-equipo3\\Assets\\Scripts\\Rotacion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Rotacion.cs",
               "ToolTip": "C:\\Users\\Iker\\git\\Unity\\galaxy-equipo3\\Assets\\Scripts\\Rotacion.cs",
               "RelativeToolTip": "Assets\\Scripts\\Rotacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T15:40:34.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Oscilar.cs",
               "DocumentMoniker": "C:\\Users\\Iker\\git\\Unity\\galaxy-equipo3\\Assets\\Scripts\\Oscilar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Oscilar.cs",
               "ToolTip": "C:\\Users\\Iker\\git\\Unity\\galaxy-equipo3\\Assets\\Scripts\\Oscilar.cs",
               "RelativeToolTip": "Assets\\Scripts\\Oscilar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T15:02:59.569Z",
               "EditorCaption": ""

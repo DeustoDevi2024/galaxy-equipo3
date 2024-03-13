@@ -5,16 +5,17 @@ using UnityEngine;
 
 public class Rotacion : MonoBehaviour
 {
-    public int speed;
+    private Rigidbody rb;
+    public float speed;
     // Start is called before the first frame update
     void Start()
     {
-        
+        rb = this.GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        this.transform.rotation *= Quaternion.Euler(0.0f, speed * Time.deltaTime, 0.0f);
+        this.transform.rotation *= Quaternion.Euler(0.0f, (speed/rb.mass), 0.0f);
     }
 }
