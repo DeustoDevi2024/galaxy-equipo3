@@ -15,7 +15,12 @@ public class Oscilar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.transform.Translate(new Vector3(0.0f, 0.0f, (float)((1 * Math.Sin(x) * 20 ) * Time.deltaTime)));
+        move();
+    }
+
+    private void move()
+    {
+        this.transform.Translate(new Vector3(0.0f, 0.0f, (float)((1 * Math.Sin(x) * 20) * Time.deltaTime)));
         x++;
     }
 }
