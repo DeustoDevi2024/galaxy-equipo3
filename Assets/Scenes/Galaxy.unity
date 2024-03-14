@@ -876,6 +876,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 5a74262c5f0653e47a995d59e4f48069, type: 2}
+    - target: {fileID: 205751706758944436, guid: 7e4bfb3c6ba1d4bc4ba31d585abdae0f, type: 3}
+      propertyPath: m_LODs.Array.data[0].screenRelativeHeight
+      value: 0.049473982
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2429,7 +2433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1855a3af243fe84e9bc4eb46e3cb21e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 15
+  speed: 7
 --- !u!54 &1741519254
 Rigidbody:
   m_ObjectHideFlags: 0
