@@ -20,7 +20,7 @@ public class Oscilar : MonoBehaviour
 
     private void move()
     {
-        this.transform.Translate(new Vector3(0.0f, 0.0f, (float)((1 * Math.Sin(x) * 20) * Time.deltaTime)));
+        this.transform.Translate(new Vector3(0.0f, 0.0f, (float)((Math.Sin(x) * 20) * Time.deltaTime * 0.1)));
         x++;
     }
 }
